@@ -1,4 +1,4 @@
-# Konsolga Asoslangan Mehmonxona Boshqaruv Tizimi [V1.0]
+# Konsolga Asoslangan Mehmonxona Boshqaruv Tizimi
 
 ## Asosiy Maqsad
 
