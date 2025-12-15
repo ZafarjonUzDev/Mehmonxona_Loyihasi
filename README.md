@@ -1,4 +1,4 @@
-# Konsolga Asoslangan Mehmonxona Boshqaruv Tizimi
+# Konsolga Asoslangan Mehmonxona Boshqaruv Tizimi 
 
 ## Asosiy Maqsad
 
